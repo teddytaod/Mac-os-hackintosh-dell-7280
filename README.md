@@ -1,4 +1,4 @@
 # Mac-os-hackintosh-dell-7280
-## opencore 
+## opencore ,macOS Ventura beta 9
 ## for intel wifi 
 ## NO intel BT now, I am working-----
