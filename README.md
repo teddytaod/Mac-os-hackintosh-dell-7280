@@ -10,6 +10,8 @@ SATA Operation : AHCI.   Fastboot : Minimal.  Integrated NIC : Enable.
 #### Disable :
 Secure Boot.
 Absolute.   Intel SGX.   Wake on AC.  Wake on Dell USB-C Dock.   Enable UEFI Network Stack.
+
+
 #### For set CFG LOCK Disabled
 #### setup_var 0x4ED 0x0
 
