@@ -3,7 +3,7 @@
 <img width="392" alt="Screenshot 2022-10-04 at 17 29 56" src="https://user-images.githubusercontent.com/52024444/193862158-7a3e44b8-56b4-40bf-81d5-2774ad8ce3c9.png">
 
 ## <u>unlock CFG lock and DVMT are necessary </u> if you use this EFI.Also need to modify Bios settings 
-### how to do ?  
+### how to do ?  （Disclaimer, I am not responsible for any damaged or missing files, or any hardware damage）
 ***
 ### Bios settings
 **Enable :**
