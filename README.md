@@ -19,7 +19,7 @@
 + Enable UEFI Network Stack.  
 + VT-d. 
 ***
-### unlock CFG lock and DVMT
+### unlock CFG lock and DVMT （risky）
 #### For set CFG LOCK Disabled
 #### setup_var 0x4ED 0x0
 
