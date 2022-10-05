@@ -4,14 +4,13 @@
 
 ## unlock CFG lock and DVMT are necessary if you use this EFI.Also need to modify Bios settings 
 ### how to do ?  
-#### Bios settings
-Enable :
+### Bios settings
+#### Enable :
 SATA Operation : AHCI.   Fastboot : Minimal.  Integrated NIC : Enable.
 #### Disable :
-Secure Boot.
-Absolute.   Intel SGX.   Wake on AC.  Wake on Dell USB-C Dock.   Enable UEFI Network Stack.
+Secure Boot.  Absolute.   Intel SGX.   Wake on AC.  Wake on Dell USB-C Dock.   Enable UEFI Network Stack.
 
-
+### unlock CFG lock and DVMT
 #### For set CFG LOCK Disabled
 #### setup_var 0x4ED 0x0
 
