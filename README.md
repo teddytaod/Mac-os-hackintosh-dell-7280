@@ -3,7 +3,13 @@
 <img width="392" alt="Screenshot 2022-10-04 at 17 29 56" src="https://user-images.githubusercontent.com/52024444/193862158-7a3e44b8-56b4-40bf-81d5-2774ad8ce3c9.png">
 
 ## unlock CFG lock and DVMT are necessary if you use this EFI.Also need to modify Bios settings 
-#### how to do ?  https://github.com/Lorys89/DELL_LATITUDE_7280
+### how to do ?  
+#### Bios settings
+Enable :
+SATA Operation : AHCI.   Fastboot : Minimal.  Integrated NIC : Enable.
+#### Disable :
+Secure Boot.
+Absolute.   Intel SGX.   Wake on AC.  Wake on Dell USB-C Dock.   Enable UEFI Network Stack.
 #### For set CFG LOCK Disabled
 #### setup_var 0x4ED 0x0
 
