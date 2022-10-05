@@ -1,6 +1,6 @@
 # Mac-os-hackintosh-dell-7280
 ## opencore ,macOS Ventura beta 9
-## unlock CFG lock and DVMT are necessary if you use this EFI.
+## unlock CFG lock and DVMT are necessary if you use this EFI.Also need to modify Bios settings
 #### For set CFG LOCK Disabled
 #### setup_var 0x4ED 0x0
 
